@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: La Bitácora de ROOT
+titlefooter: Todos los Derechos Reservados #www.devinconde.com
+myhead: Espacio de la Bitacora de ROOT
+powered: BITACORA d’ ROOT
+urlpowered: http://bitacoraroot.com  #Link to external website
+email: info@bitacoraroot.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bienvenido a la Bitácora de ROOT
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://terorero.github.io/bitacoraroot-home/" # the base hostname & protocol for your web site
+url: "https://www.bitacoraroot.com/" # the base hostname & protocol for your web site
+# Build settings
+markdown: kramdown
