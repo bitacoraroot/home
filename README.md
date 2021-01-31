@@ -2,4 +2,4 @@
 
 Bienvenido a la Bitácora de ROOT.
 
-**Nunca perderé la esperanza de una vida mejor..!**
+**Para Dios, el futuro es historia..!**
